@@ -1,0 +1,8 @@
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+C:\Users\READY\Desktop\ideglenes\cSharp tasks\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
